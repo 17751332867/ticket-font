@@ -1,0 +1,107 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1241",
+      "name": "邮件",
+      "font_class": "youjian",
+      "unicode": "f0138",
+      "unicode_decimal": 983352
+    },
+    {
+      "icon_id": "1306",
+      "name": "购物车空",
+      "font_class": "gouwuchekong",
+      "unicode": "f0179",
+      "unicode_decimal": 983417
+    },
+    {
+      "icon_id": "591846",
+      "name": "日期",
+      "font_class": "riqi",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "609719",
+      "name": "信息",
+      "font_class": "xinxiinformation38",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "975388",
+      "name": "类型",
+      "font_class": "type",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "2076402",
+      "name": "出发到达小",
+      "font_class": "chufadaodaxiao",
+      "unicode": "e8ca",
+      "unicode_decimal": 59594
+    },
+    {
+      "icon_id": "6536737",
+      "name": "叉号",
+      "font_class": "chahao",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "7549363",
+      "name": "价格",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "12097396",
+      "name": "到达",
+      "font_class": "daoda",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "15343850",
+      "name": "航班",
+      "font_class": "hangban",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "15779657",
+      "name": "飞机",
+      "font_class": "feiji",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "19657980",
+      "name": "时 间",
+      "font_class": "time",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "20905086",
+      "name": "城市",
+      "font_class": "chengshi",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "21308110",
+      "name": "状态转换",
+      "font_class": "zhuangtaizhuanhuan",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}
